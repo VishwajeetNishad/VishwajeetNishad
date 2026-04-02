@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 📫 How to reach me **Vishwajeetnishad74@gmail.com**
+- 📫 How to reach me **Vishwajeet.inn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
