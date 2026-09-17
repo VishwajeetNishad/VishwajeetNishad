@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
 <h3 align="center">A passionate Web develope</h3>
 
-- 🔭 I’m currently working on [Image Encryption](https://github.com/VishwajeetNishad/Image-Encryption)
-
-- 👯 I’m looking to collaborate on [Hostel/pg management](https://github.co/VishwajeetNishad/Web-Tech-Project)
-
-- 👨‍💻 All of my projects are available at [https://heyvishwajeet.netlify.app/](https://heyvishwajeet.netlify.app/)
-
 - 📫 How to reach me **Vishwajeet.inn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
